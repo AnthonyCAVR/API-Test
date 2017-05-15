@@ -1,2 +1,2 @@
 # API-Test
-Testing an API
+Accept: application/vnd.github.v3+json
